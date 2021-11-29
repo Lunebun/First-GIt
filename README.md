@@ -1,2 +1,2 @@
-# First-GIt
-Something Something Coding
+This is a website for my own portfolio
+
